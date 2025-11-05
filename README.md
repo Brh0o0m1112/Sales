@@ -1,2 +1,2 @@
-# Sales
-تحليل بيانات مبيعات باستخدام Excel و Power Bi
+# Call Center
+تحليل بيانات مركز خدمة العملاء  باستخدام Excel و Power Bi
